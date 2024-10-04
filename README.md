@@ -8,6 +8,10 @@ Neste trabalho, contribuirei com o design, HTML e CSS. Este é um projeto em and
 <img width="450" src="figma/Home.png"><br>
 <img width="450" src="figma/Lista de cursos.png"><br>
 <img width="450" src="figma/Área do suporte.png"><br>
+<img width="450" src="figma/Curso.png"><br>
+<img width="450" src="figma/Aula.png"><br>
+<img width="450" src="figma/Entrar.png"><br>
+<img width="450" src="figma/Perfil.png"><br>
 </p>
 
 
