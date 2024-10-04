@@ -7,7 +7,7 @@ Neste trabalho, contribuirei com o design, HTML e CSS. Este é um projeto em and
 <p align="center">
 <img width="450" src="figma/Home.png"><br>
 <img width="450" src="figma/Lista de cursos.png"><br>
-<img width="450" src="figma/Area do suporte.png"><br>
+<img width="450" src="figma/Área do suporte.png"><br>
 </p>
 
 
